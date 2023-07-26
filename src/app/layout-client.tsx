@@ -8,6 +8,7 @@ export default function RootLayoutClient() {
     { name: '/test/use-state-test', href: '/test/use-state-test' },
     { name: '/test/use-effect-multiple', href: '/test/use-effect-multiple' },
     { name: '/test/not-need-use-effect', href: '/test/not-need-use-effect' },
+    { name: '/test/use-callback-performance-test', href: '/test/use-callback-performance-test' },
   ]);
 
   return (
